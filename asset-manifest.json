@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SendApp/static/css/main.b1208916.chunk.css",
-    "main.js": "/SendApp/static/js/main.f4232794.chunk.js",
-    "main.js.map": "/SendApp/static/js/main.f4232794.chunk.js.map",
-    "runtime-main.js": "/SendApp/static/js/runtime-main.15629e1d.js",
-    "runtime-main.js.map": "/SendApp/static/js/runtime-main.15629e1d.js.map",
-    "static/js/2.8f395980.chunk.js": "/SendApp/static/js/2.8f395980.chunk.js",
-    "static/js/2.8f395980.chunk.js.map": "/SendApp/static/js/2.8f395980.chunk.js.map",
-    "static/js/3.9c2e376d.chunk.js": "/SendApp/static/js/3.9c2e376d.chunk.js",
-    "static/js/3.9c2e376d.chunk.js.map": "/SendApp/static/js/3.9c2e376d.chunk.js.map",
-    "index.html": "/SendApp/index.html",
-    "static/css/main.b1208916.chunk.css.map": "/SendApp/static/css/main.b1208916.chunk.css.map",
-    "static/js/2.8f395980.chunk.js.LICENSE.txt": "/SendApp/static/js/2.8f395980.chunk.js.LICENSE.txt",
-    "static/media/Group 4.a139693d.png": "/SendApp/static/media/Group 4.a139693d.png",
-    "static/media/edit.c20a026b.png": "/SendApp/static/media/edit.c20a026b.png"
+    "main.css": "/PWASendApp/static/css/main.b1208916.chunk.css",
+    "main.js": "/PWASendApp/static/js/main.b81ae06e.chunk.js",
+    "main.js.map": "/PWASendApp/static/js/main.b81ae06e.chunk.js.map",
+    "runtime-main.js": "/PWASendApp/static/js/runtime-main.f72965e4.js",
+    "runtime-main.js.map": "/PWASendApp/static/js/runtime-main.f72965e4.js.map",
+    "static/js/2.f9b0e5e8.chunk.js": "/PWASendApp/static/js/2.f9b0e5e8.chunk.js",
+    "static/js/2.f9b0e5e8.chunk.js.map": "/PWASendApp/static/js/2.f9b0e5e8.chunk.js.map",
+    "static/js/3.9c2e376d.chunk.js": "/PWASendApp/static/js/3.9c2e376d.chunk.js",
+    "static/js/3.9c2e376d.chunk.js.map": "/PWASendApp/static/js/3.9c2e376d.chunk.js.map",
+    "index.html": "/PWASendApp/index.html",
+    "static/css/main.b1208916.chunk.css.map": "/PWASendApp/static/css/main.b1208916.chunk.css.map",
+    "static/js/2.f9b0e5e8.chunk.js.LICENSE.txt": "/PWASendApp/static/js/2.f9b0e5e8.chunk.js.LICENSE.txt",
+    "static/media/Group 4.a139693d.png": "/PWASendApp/static/media/Group 4.a139693d.png",
+    "static/media/edit.c20a026b.png": "/PWASendApp/static/media/edit.c20a026b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15629e1d.js",
-    "static/js/2.8f395980.chunk.js",
+    "static/js/runtime-main.f72965e4.js",
+    "static/js/2.f9b0e5e8.chunk.js",
     "static/css/main.b1208916.chunk.css",
-    "static/js/main.f4232794.chunk.js"
+    "static/js/main.b81ae06e.chunk.js"
   ]
 }
